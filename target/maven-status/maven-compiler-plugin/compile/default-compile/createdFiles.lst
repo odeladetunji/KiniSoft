@@ -1,0 +1,8 @@
+com/services/KiniService.class
+com/dto/KiniDto.class
+com/services/KiniInterface.class
+com/entity/Kini.class
+com/exception/ApiException.class
+com/KiniApplication.class
+com/repository/KiniRepository.class
+com/api/KiniApi.class
