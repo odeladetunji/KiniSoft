@@ -8,4 +8,5 @@ public class KiniDto {
     private String username;
     private String email;
     private Long telephone;
+    //
 }
